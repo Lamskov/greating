@@ -2,6 +2,7 @@ package ru.mentee.power;
 
 /**
  *
+ *
  * Демонстрация работы калькулятора
  */
 public class App {
