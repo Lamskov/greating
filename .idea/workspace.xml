@@ -4,147 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3793b880-a154-4207-9ad4-472ee3e101b5" name="Changes" comment="МР-11.1: Добавлен GitHub Actions для автоматизации сборки и тестов">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/.github/workflows/gradle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/src/main/java/ru/mentee/power/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/src/main/java/ru/mentee/power/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/src/test/java/ru/mentee/power/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greating-master/src/test/java/ru/mentee/power/CalculatorTest.java" beforeDir="false" />
+    <list default="true" id="e71497c7-1cd4-464d-9a4b-9af34d07994c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mentee/power/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/mentee/power/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/mentee/power/CalculatorTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="greating" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="feature/add-workflow" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Lamskov&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lamskov"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Lamskov/greating.git&quot;,
-    &quot;accountId&quot;: &quot;0865dc53-722c-4200-89c9-904565edf647&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2uqjKn6lrGBdy3aEHXFIrzLXiW3" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2uqjHtah4xm8PDasnehn34I0A7M" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Gradle.greating-master [clean test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
+    "last_opened_file_path": "C:/Projects/greating-master",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.18",
-    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="gradle clean test " />
-      <command value="gradle clean test" />
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="greating-master [clean test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.greating-master [clean test]" />
-        <item itemvalue="Gradle.greating-master [clean test]" />
-        <item itemvalue="Gradle.greating-master [clean test]" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -156,118 +66,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3793b880-a154-4207-9ad4-472ee3e101b5" name="Changes" comment="" />
-      <created>1742982936904</created>
+      <changelist id="e71497c7-1cd4-464d-9a4b-9af34d07994c" name="Changes" comment="" />
+      <created>1742982914661</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742982936904</updated>
-      <workItem from="1742982937938" duration="127000" />
-      <workItem from="1742983660625" duration="143000" />
-      <workItem from="1742983873722" duration="1899000" />
-      <workItem from="1742986817603" duration="28000" />
-      <workItem from="1742986852845" duration="624000" />
-      <workItem from="1742987487792" duration="46000" />
-      <workItem from="1742987540894" duration="1837000" />
-      <workItem from="1743012275922" duration="1096000" />
-      <workItem from="1743013393032" duration="1317000" />
-      <workItem from="1743014729959" duration="64000" />
-      <workItem from="1743014800099" duration="1353000" />
-      <workItem from="1743142644042" duration="1000" />
-      <workItem from="1743144541219" duration="502000" />
-      <workItem from="1743434025470" duration="615000" />
-      <workItem from="1743447354976" duration="1827000" />
-      <workItem from="1743454175492" duration="1285000" />
-      <workItem from="1743481355460" duration="7174000" />
-      <workItem from="1743574824884" duration="1087000" />
-      <workItem from="1743576186172" duration="451000" />
+      <updated>1742982914661</updated>
+      <workItem from="1742982916365" duration="20000" />
     </task>
-    <task id="LOCAL-00001" summary="Add project with Gradle">
-      <option name="closed" value="true" />
-      <created>1743012522686</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743012522686</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Add project with Gradle2">
-      <option name="closed" value="true" />
-      <created>1743013617604</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743013617604</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add project with Gradle">
-      <option name="closed" value="true" />
-      <created>1743014845781</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743014845781</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add new comment">
-      <option name="closed" value="true" />
-      <created>1743015349431</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743015349431</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add new comment">
-      <option name="closed" value="true" />
-      <created>1743015554030</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743015554030</updated>
-    </task>
-    <task id="LOCAL-00006" summary="МР-11.1: Добавлен GitHub Actions для автоматизации сборки и тестов">
-      <option name="closed" value="true" />
-      <created>1743483042025</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1743483042025</updated>
-    </task>
-    <task id="LOCAL-00007" summary="МР-11.1: Добавлен GitHub Actions для автоматизации сборки и тестов">
-      <option name="closed" value="true" />
-      <created>1743483321609</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1743483321609</updated>
-    </task>
-    <task id="LOCAL-00008" summary="МР-11.1: Добавлен GitHub Actions для автоматизации сборки и тестов">
-      <option name="closed" value="true" />
-      <created>1743575675174</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1743575675174</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add project with Gradle2" />
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="Add project with Gradle" />
-    <MESSAGE value="Add new comment" />
-    <MESSAGE value="МР-11.1: Добавлен GitHub Actions для автоматизации сборки и тестов" />
-    <option name="LAST_COMMIT_MESSAGE" value="МР-11.1: Добавлен GitHub Actions для автоматизации сборки и тестов" />
   </component>
 </project>
